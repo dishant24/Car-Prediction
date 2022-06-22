@@ -13,3 +13,5 @@ The columns in the given dataset are as follows:
   transmission - gear system    
   Owner - how many prvious owner of car     
 For used motorcycle datasets please go to https://www.kaggle.com/nehalbirla/motorcycle-dataset
+
+Using Random Forest Regression my accuracy is somewhere around 
