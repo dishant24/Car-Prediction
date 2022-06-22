@@ -14,4 +14,8 @@ The columns in the given dataset are as follows:
   Owner - how many prvious owner of car     
 For used motorcycle datasets please go to https://www.kaggle.com/nehalbirla/motorcycle-dataset
 
-Using Random Forest Regression my accuracy is somewhere around 
+Using Random Forest Regression my accuracy is somewhere around 0.9468014007217117.
+Also i deploy the model and all the file i already upload in car dekho file and my application is also there in app.py.
+You are just understand the code and make your model and deploy them from understanding my code.
+Have a good luck and best wishes to deep into data science and machine learning world.
+
